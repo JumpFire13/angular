@@ -11,8 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bower": "^1.7.9",
-    "d3": "^3.5.17"
+    "bower": "^1.7.9"
   },
   "devDependencies": {
     "bower-webpack-plugin": "^0.1.9",
