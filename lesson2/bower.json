@@ -1,0 +1,28 @@
+{
+  "name": "classwork2",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    ""
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0",
+    "angular-ui-router": "^0.3.1",
+    "angular-loader": "^1.5.8",
+    "angular-sanitize": "^1.5.8",
+    "angular-messages": "^1.5.8",
+    "angular-bootstrap": "^2.1.3"
+  }
+}
